@@ -20,7 +20,7 @@
     <br> 
 </p>
 <p align="center">
-  <a href="https://renanvt.github.io/projeto-narutoshippuden/">Site do Projeto</a>
+  <a href="https://renanvt.github.io/sistema-de-atendimento/">Site do Projeto</a>
 </p>
 
 ## 📝 Tabela de Conteúdos
